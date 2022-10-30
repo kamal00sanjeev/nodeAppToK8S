@@ -1,0 +1,11 @@
+{
+  "name": "nodeApp",
+  "version": "1.0.0",
+  "description": "test node app",
+  "main": "index.js",
+  "author": "sanjeev",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
